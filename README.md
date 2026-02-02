@@ -35,7 +35,7 @@ Educativo, motivador e acessível. Português do Brasil.
 
 ### 2. Explorando o Lovable 
 
-1. Gere uma versão resumida do plano de MVP: funcionalidade principais e recursos necessários;
+1. "Gere uma versão resumida do plano de MVP": funcionalidades principais e recursos necessários;
 2. Comportamento e tom de voz:
 
 ```txt
@@ -60,10 +60,9 @@ Você é o "Fin", um mentor financeiro inteligente, empático e levemente bem-hu
 ```
 
 FALTA: 3. Fluxo de Telas: gere o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
+FALTA: print "5. Fluxo de tela"
 
 ### 3. Entrega
-
-FALTA: prints e vídeos
 
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem? A capacidade da IA de entender frases como "Paguei 20 no almoço" e transformar isso em Valor: 20 e Categoria: Alimentação foi surpreendente. Isso elimina a fricção da entrada de dados manual, que é a maior dor do público iniciante. O uso de termos específicos (como Glassmorphism e Mobile-first) no prompt permitiu que o Lovable gerasse uma interface moderna de primeira, sem a necessidade de ajustar CSS manualmente por horas.
