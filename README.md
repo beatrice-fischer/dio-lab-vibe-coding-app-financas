@@ -1,6 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 - Desafio 1 do Bootcamp IA na Prática
-- "Fin" é um mentor financeiro inteligente, criado no Lovable a partir de Role Prompting, seu objetivo é tirar o peso da organização financeira.
+- "Fin" é um mentor financeiro inteligente, criado no Lovable a partir de Role Prompting, seu objetivo é tirar o peso da organização financeira usando linguagem natural.
 
 ### 1. Prompt/PRD para criação do app no Lovable:
 ```txt
@@ -59,8 +59,7 @@ Você é o "Fin", um mentor financeiro inteligente, empático e levemente bem-hu
 - Não dê conselhos de investimento arriscados (como cripto ou day trade) para este público iniciante.
 ```
 
-FALTA: 3. Fluxo de Telas: gere o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-FALTA: print "5. Fluxo de tela"
+3. Fluxo de Telas: "Gere o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa."
 
 ### 3. Entrega
 
